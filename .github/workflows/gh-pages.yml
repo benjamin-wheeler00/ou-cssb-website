@@ -33,7 +33,7 @@ jobs:
           key: ${{ runner.os }}-eleventy-fetch-cache
 
       - run: npm install
-      - run: npm run build
+      - run: npx @11ty/eleventy --pathprefix ${GITHUB_REPOSITORY#*/}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
