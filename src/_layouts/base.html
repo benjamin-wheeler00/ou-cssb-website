@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title | default: "OU CSSB" }}</title>
+    <link rel="stylesheet" href="/catppuccin.css" />
+    <link
+      rel="icon"
+      href="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fab2.svg"
+    />
+    {% block head %}{% endblock %}
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/posts">Posts</a>
+    </nav>
+    <hr />
+    <main>{{ content }}</main>
+  </body>
+  <style>
+    body {
+      background-color: var(--ctp-macchiato-base);
+      color: var(--ctp-macchiato-text);
+      font-family: monospace;
+      font-size: 12pt;
+    }
+    main {
+      margin-left: 12.5%;
+      margin-right: 12.5%;
+    }
+    nav {
+      display: flex;
+      justify-content: space-evenly;
+      padding: 1em;
+      width: 100%;
+    }
+    h1 {
+      text-align: center;
+    }
+    i {
+      color: var(--ctp-macchiato-subtext0);
+    }
+    a {
+      color: var(--ctp-macchiato-blue);
+    }
+    section {
+      background-color: var(--ctp-macchiato-mantle);
+      border-radius: 1em;
+      padding: 12px;
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+    img {
+      max-width: 100%;
+      max-height: 50vh;
+    }
+    hr {
+      color: var(--ctp-macchiato-surface1);
+    }
+  </style>
+  {% block %}{% endblock %}
+</html>
