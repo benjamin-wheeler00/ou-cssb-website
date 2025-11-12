@@ -1,7 +1,0 @@
-{% for post in collections.post %}
-<section>
-  <h2><a href="{{ post.page.url }}">{{ post.data.title }}</a></h2>
-  <p>{{ post.data.summary }}</p>
-  <i>{{ post.page.date | date: "%m-%d-%Y" }}</i>
-</section>
-{% endfor %}

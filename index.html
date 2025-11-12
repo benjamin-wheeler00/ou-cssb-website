@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title | default: "OU CSSB" }}</title>
+    <title>OU CSSB</title>
     <link rel="stylesheet" href="/catppuccin.css" />
     <link
       rel="icon"
       href="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fab2.svg"
     />
-    {% block head %}{% endblock %}
+    
   </head>
   <body>
     <nav>
@@ -17,7 +17,17 @@
       <a href="/posts">Posts</a>
     </nav>
     <hr />
-    <main>{{ content }}</main>
+    <main><h1>The University of Oklahoma Computer Science Student Board</h1>
+
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor
+  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
+  ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse
+  cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+</main>
   </body>
   <style>
     body {
@@ -60,5 +70,5 @@
       color: var(--ctp-macchiato-surface1);
     }
   </style>
-  {% block %}{% endblock %}
+  
 </html>
