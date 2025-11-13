@@ -3,5 +3,8 @@ layout: _layouts/base.html
 ---
 
 <h1>{{ title }}</h1>
-<i>{{ page.date | date: "%m-%d-%Y" }}</i>
+<i>
+  Written by <b>{{ author | default: "Anonymous"}}</b> on
+  <b>{{ page.date | date: "%m-%d-%Y" }}</b>
+</i>
 {{ content }}
