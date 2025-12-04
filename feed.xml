@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The University of Oklahoma Computer Science Student Board</title>
+  <subtitle>The official CSSB blog!</subtitle>
+  <link href="https://benjamin-wheeler00.github.io/ou-cssb-website/feed.xml" rel="self" />
+  <link href="https://benjamin-wheeler00.github.io/ou-cssb-website/" />
+  <updated>2025-12-04T23:07:41Z</updated>
+  <id>https://benjamin-wheeler00.github.io/ou-cssb-website/</id>
+  <author>
+    <name>Benjamin Wheeler</name>
+  </author>
+  <entry>
+    <title>Example Post</title>
+    <link href="https://benjamin-wheeler00.github.io/ou-cssb-website//posts/example-post/" />
+    <updated>2025-12-04T23:07:41Z</updated>
+    <id>https://benjamin-wheeler00.github.io/ou-cssb-website//posts/example-post/</id>
+    <content type="html">&lt;h2&gt;What is this?&lt;/h2&gt;
+&lt;p&gt;Just a page to test out posts :)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://plus.unsplash.com/premium_photo-1661872687000-e33a6cbcd379?w=500&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;q=60&amp;amp;ixlib=rb-4.1.0&amp;amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVldGxlfGVufDB8fDB8fHww&#34; alt=&#34;Beetle&#34;&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
+
