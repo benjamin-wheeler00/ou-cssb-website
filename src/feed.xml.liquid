@@ -1,0 +1,33 @@
+---
+url: https://benjamin-wheeler00.github.io/ou-cssb-website/
+permalink: feed.xml
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The University of Oklahoma Computer Science Student Board</title>
+  <subtitle>The official CSSB blog!</subtitle>
+  <link href="{{ url }}{{ permalink }}" rel="self" />
+  <link href="{{ url }}" />
+  <updated>{{ collections.posts.last.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+  <id>{{ url }}</id>
+  {%- for post in collections.posts %}
+  <author>
+    <name>{{ post.data.author}}</name>
+  </author>
+  {%- endfor %}
+  {%- for post in collections.posts | reverse %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ url }}{{ post.url }}" />
+    <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <id>{{ url }}{{ post.url }}</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
+{% comment %}
+TODO:
+Use file updated time instead of created time for <updated> attributes.
+Filter duplicate authors
+{% endcomment %}
