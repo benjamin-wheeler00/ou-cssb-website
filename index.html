@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OU CSSB</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
     <link rel="stylesheet" href="/catppuccin.css" />
     <link
       rel="icon"
@@ -13,21 +17,29 @@
   </head>
   <body>
     <nav>
-      <a href="/">Home</a>
-      <a href="/posts">Posts</a>
+      <a href="/"><i class="fa-solid fa-house"></i>Home</a>
+      <a href="/posts"><i class="fa-solid fa-newspaper"></i>Posts</a>
     </nav>
     <hr />
     <main><h1>The University of Oklahoma Computer Science Student Board</h1>
 
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor
-  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
-  ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Computer science student board is an organization focused on assisting
+  computer science majors in succeeding in their field. The organization hosts
+  programming sessions, social events, and helpful information to better help
+  students understand their major, and prepare for future careers/opportunities.
 </p>
 </main>
+    <hr />
+    <footer>
+      <a href="https://discord.gg/RWpcnBpA5H"
+        ><i class="fa-brands fa-discord"></i>Discord</a
+      >
+      <a href="https://www.instagram.com/cssb_ou"
+        ><i class="fa-brands fa-instagram"></i>Instagram</a
+      >
+      <a href="/feed.xml"><i class="fa-solid fa-rss"></i>Atom/RSS Feed</a>
+    </footer>
   </body>
   <style>
     body {
@@ -46,6 +58,13 @@
       padding-top: 1em;
       padding-bottom: 1em;
       width: 100%;
+    }
+    footer {
+      display: flex;
+      justify-content: space-evenly;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      width: 95%;
     }
     h1 {
       text-align: center;
