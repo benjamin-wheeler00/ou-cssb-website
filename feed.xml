@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The University of Oklahoma Computer Science Student Board</title>
   <subtitle>The official CSSB blog!</subtitle>
-  <link href="https://benjamin-wheeler00.github.io/ou-cssb-website/feed.xml" rel="self" />
-  <link href="https://benjamin-wheeler00.github.io/ou-cssb-website/" />
-  <updated>2026-01-30T19:13:54Z</updated>
-  <id>https://benjamin-wheeler00.github.io/ou-cssb-website/</id>
+  <link href="https://cssbou.org/feed.xml" rel="self" />
+  <link href="https://cssbou.org/" />
+  <updated>2026-01-30T19:28:18Z</updated>
+  <id>https://cssbou.org/</id>
   <author>
     <name>Benjamin Wheeler</name>
   </author>
   <entry>
     <title>Example Post</title>
-    <link href="https://benjamin-wheeler00.github.io/ou-cssb-website//posts/example-post/" />
-    <updated>2026-01-30T19:13:54Z</updated>
-    <id>https://benjamin-wheeler00.github.io/ou-cssb-website//posts/example-post/</id>
+    <link href="https://cssbou.org//posts/example-post/" />
+    <updated>2026-01-30T19:28:18Z</updated>
+    <id>https://cssbou.org//posts/example-post/</id>
     <content type="html">&lt;h2&gt;What is this?&lt;/h2&gt;
 &lt;p&gt;Just a page to test out posts :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://plus.unsplash.com/premium_photo-1661872687000-e33a6cbcd379?w=500&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;q=60&amp;amp;ixlib=rb-4.1.0&amp;amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVldGxlfGVufDB8fDB8fHww&#34; alt=&#34;Beetle&#34;&gt;&lt;/p&gt;
