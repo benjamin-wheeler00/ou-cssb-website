@@ -51,36 +51,47 @@ The game, the game! The game of ultimate frisbee is a uniquely interesting one, 
 Rather than explain the numerous highs and lows of our game, we instead have chosen to display these images with the hope of a more immersive secondhand experience for our readers:
 
 ![](image2.png)
+
 Figure 2. Sarkey's Energy Center looms in the background as our group prepares for the game, by warming up their throws and setting up the dart board.
 
 ![](image3.png)
+
 Figure 3. CSSB takes on the magnetic dart board, placed on this brick wall after an intense period of trial and error…the chairs were an attempted tower for our board to rest its weight on…ended up being held up by 2 pieces of clear tape…the tower remains, fallen, as seen in the image, as a testament to our struggles in trying to set up this dart board. As you can see, however, the magnetic aspect works perfectly!
 
 ![](image4.png)
+
 Figure 4. A closer look at this board, two darts held to the board by internal magnets, and a third flying to land on the board, hopefully.
 
 ![](image5.png)
+
 Figure 5. That is me trying to catch the frisbee from the opposing team's captain; for those unaware, it is the black disc flying through midair (it looks black here, but is actually dark red).
 
 ![](image6.png)
+
 Figure 6. Oh, there it goes, fly frisbee!! Fly!! See us all standing in awe of this spectacle.
 
 ![](image7.png)
+
 Figure 7. Throwing the frisbee – notice the difference between the actual throw and the shadow; the shadow indicates that it has already left his hand at that point.
 
 ![](image8.png)
+
 Figure 8. Throwing the frisbee – disc looks slightly smaller in this still. Also, our group is huddled at the very left of this picture, and those white tables and red chairs are the ones courtesy of EClub. They are standing right behind our cooler, which holds many ice creams.
 
 ![](image9.png)
+
 Figure 9. There's that diagonal sidewalk earlier mentioned, with the shadow of said lamp post looming very ominously to the left. This is the opposite end of the EQuad, but we did not play on that lawn in the distance.
 
 ![](image10.png)
+
 Figure 10. Owner of Ray-Ban Meta Glasses holding frisbee, about to throw. You can see the slight outline of the glasses in his shadow in the bottom left of this still.
 
 ![](image11.png)
+
 Figure 11. Frisbee imposes itself upon said Glasses Owner. What an odd threat it looks, taller than Sarkey's itself, the pinnacle to which the buildings bow down to…the trees below look like mere ants in light of its thundering presence…
 
 ![](image12.png)
+
 Figure 12. What a strange picture, the red disc clearly out of place amidst the all-natural setting, the much smaller dot at a weird angle, indicating its shadow, the hand at the very, very bottom of the picture stretched out in a pose suggesting it had just flung the frisbee outwards.
 
 <video controls>
